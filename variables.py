@@ -24,7 +24,6 @@
 
 # ... Écrivez votre code ici ...
 
-truc
 
 print(ma_variable)
 
